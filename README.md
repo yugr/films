@@ -20,6 +20,7 @@ Movies:
   * Rocky
   * The Beaver
   * The Town
+  * Wheelman
   * Wind River
 
 Animations:

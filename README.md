@@ -4,7 +4,9 @@ Series:
 * True Detective
 
 Movies:
+* 3:10 to Yuma
 * 8 Mile
+* Appaloosa
 * Cinderella Man
 * End of Watch
 * Hell or High Water

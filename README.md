@@ -14,11 +14,13 @@ Movies:
   * Killing Them Softly
   * Locke
   * Heat
+  * Nine Days in One Year (Девять дней одного года)
   * Nuevo Orden
   * Point Break
   * Rob Roy 1995
   * Rocky
   * The Beaver
+  * The Guard
   * The Town
   * Wheelman
   * Wind River

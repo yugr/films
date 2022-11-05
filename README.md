@@ -17,7 +17,7 @@ Movies:
   * Nine Days in One Year (Девять дней одного года)
   * Nuevo Orden
   * Point Break
-  * Rob Roy 1995
+  * Rob Roy (1995)
   * Rocky
   * The Beaver
   * The Guard
@@ -28,6 +28,9 @@ Movies:
 Animations:
   * Akira
   * Inside Out
+  * Le Petit Prince
   * Kubo and the Two Strings
+  * Metamorphosis (Метаморфоза, 1978)
+  * The Mitten (Варежка, 1967)
   * The Secret of Kells
   * Wreck-It Ralph

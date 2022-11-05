@@ -7,6 +7,7 @@ Movies:
   * 3:10 to Yuma
   * 8 Mile
   * Appaloosa
+  * Blade Runner
   * Cinderella Man
   * End of Watch
   * Hell or High Water

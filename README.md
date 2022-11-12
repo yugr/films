@@ -28,6 +28,7 @@ Movies:
 
 Animations:
   * Akira
+  * Avatar: The Last Airbender
   * Inside Out
   * Le Petit Prince
   * Kubo and the Two Strings

@@ -9,6 +9,7 @@ Movies:
   * Appaloosa
   * Blade Runner
   * Cinderella Man
+  * Dragged Across Concrete
   * End of Watch
   * Hell or High Water
   * Killer Joe
@@ -17,6 +18,7 @@ Movies:
   * Heat
   * Nine Days in One Year (Девять дней одного года)
   * Nuevo Orden
+  * Payback (1999)
   * Point Break
   * Rob Roy (1995)
   * Rocky

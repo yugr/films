@@ -8,6 +8,7 @@ Movies:
   * 8 Mile
   * Appaloosa
   * Blade Runner
+  * Bridge to Terabithia
   * Cinderella Man
   * Dragged Across Concrete
   * End of Watch

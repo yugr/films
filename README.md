@@ -6,6 +6,7 @@ Series:
 Movies:
   * 3:10 to Yuma
   * 8 Mile
+  * Angel Heart
   * Appaloosa
   * Blade Runner
   * Bridge to Terabithia
@@ -30,6 +31,7 @@ Movies:
   * Wind River
 
 Animations:
+  * A Christmas Carol (2009)
   * Akira
   * Avatar: The Last Airbender
   * Inside Out

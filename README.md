@@ -11,7 +11,9 @@ Movies:
   * Blade Runner
   * Bridge to Terabithia
   * Cinderella Man
+  * District 19
   * Dragged Across Concrete
+  * Elysium
   * End of Watch
   * Hell or High Water
   * Killer Joe

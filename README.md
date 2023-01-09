@@ -6,6 +6,7 @@ Series:
 Movies:
   * 3:10 to Yuma
   * 8 Mile
+  * American Beauty
   * Angel Heart
   * Appaloosa
   * Blade Runner

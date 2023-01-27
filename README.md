@@ -17,6 +17,7 @@ Movies:
   * Elysium
   * End of Watch
   * Hell or High Water
+  * Joker
   * Killer Joe
   * Killing Them Softly
   * Locke

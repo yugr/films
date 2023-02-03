@@ -22,12 +22,14 @@ Movies:
   * Killing Them Softly
   * Locke
   * Heat
+  * Moscow Does Not Believe in Tears (Москва слезам не верит)
   * Nine Days in One Year (Девять дней одного года)
   * Nuevo Orden
   * Payback (1999)
   * Point Break
   * Rob Roy (1995)
   * Rocky
+  * Spring on Zarechnaya Street (Весна на Заречной улице)
   * The Beaver
   * The Guard
   * The Town

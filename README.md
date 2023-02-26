@@ -30,6 +30,7 @@ Movies:
   * Point Break
   * Rob Roy (1995)
   * Rocky
+  * Sicario
   * Spring on Zarechnaya Street (Весна на Заречной улице)
   * The Beaver
   * The Boondock Saints

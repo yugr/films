@@ -49,6 +49,7 @@ Animations:
   * Kubo and the Two Strings
   * Metamorphosis (Метаморфоза, 1978)
   * The Boondocks
+  * The Lion King
   * The Mitten (Варежка, 1967)
   * The Secret of Kells
   * Wreck-It Ralph

@@ -3,6 +3,7 @@ Series:
   * Lillehammer
   * The Office (USA version)
   * True Detective
+  * The Wire
 
 Movies:
   * 3:10 to Yuma

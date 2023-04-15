@@ -42,14 +42,16 @@ Movies:
   * Wheelman
   * Wind River
 
-Animations:
+Animations and kid movies:
   * A Christmas Carol (2009)
   * Akira
   * Avatar: The Last Airbender
+  * Enchanted
   * Inside Out
   * Le Petit Prince
   * Kubo and the Two Strings
   * Metamorphosis (Метаморфоза, 1978)
+  * Oz the Great and Powerful
   * The Boondocks
   * The Lion King
   * The Mitten (Варежка, 1967)

@@ -39,6 +39,7 @@ Movies:
   * The Guard
   * The Hard Way (1991)
   * The Town
+  * Warrior (2011)
   * Wheelman
   * Wind River
 

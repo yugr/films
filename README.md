@@ -53,6 +53,7 @@ Animations and kid movies:
   * Kubo and the Two Strings
   * Metamorphosis (Метаморфоза, 1978)
   * Oz the Great and Powerful
+  * Stardust
   * The Boondocks
   * The Lion King
   * The Mitten (Варежка, 1967)

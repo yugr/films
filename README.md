@@ -12,7 +12,6 @@ Movies:
   * Angel Heart
   * Appaloosa
   * Blade Runner
-  * Bridge to Terabithia
   * Cinderella Man
   * District 19
   * Dragged Across Concrete
@@ -48,6 +47,7 @@ Animations and kid movies:
   * A Christmas Carol (2009)
   * Akira
   * Avatar: The Last Airbender
+  * Bridge to Terabithia
   * Enchanted
   * Inside Out
   * Le Petit Prince

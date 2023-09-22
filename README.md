@@ -33,6 +33,7 @@ Movies:
   * Rocky
   * Sicario
   * Spring on Zarechnaya Street (Весна на Заречной улице)
+  * Subway (1985)
   * The Beaver
   * The Boondock Saints
   * The Eagle

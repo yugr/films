@@ -20,7 +20,6 @@
 * Sicario
 * The Boondock Saints
 * The Eagle (2011)
-* The Hard Way (1991)
 * The Town
 * The Wire (show)
 * Treasure Island (1990)
@@ -31,6 +30,7 @@
 # Comedies
 
 * Groundhog Day
+* The Hard Way (1991)
 * The Office (show, USA version)
 
 # Dramas

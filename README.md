@@ -1,52 +1,55 @@
-# Series
-
-* Deadwood (Russian translation by Serbin)
-* Lillehammer
-* The Office (USA version)
-* True Detective
-* The Wire
-
-# Movies
+# Action films, thrillers
 
 * 3:10 to Yuma
-* 8 Mile
-* American Beauty
 * Angel Heart
 * Appaloosa
 * Blade Runner
-* Cinderella Man
+* Deadwood (show, Russian translation by Serbin)
 * District 19
 * Dragged Across Concrete
 * Elysium
 * End of Watch
-* Groundhog Day
+* Heat
 * Hell or High Water
-* Joker
 * Killer Joe
 * Killing Them Softly
-* Locke
-* Heat
-* Moscow Does Not Believe in Tears (Москва слезам не верит)
-* Nine Days in One Year (Девять дней одного года)
 * Nuevo Orden
 * Payback (1999)
 * Point Break
 * Rob Roy (1995)
-* Rocky
 * Sicario
+* The Boondock Saints
+* The Eagle (2011)
+* The Hard Way (1991)
+* The Town
+* The Wire (show)
+* Treasure Island (1990)
+* True Detective (show)
+* Wheelman
+* Wind River
+
+# Comedies
+
+* Groundhog Day
+* The Office (show, USA version)
+
+# Dramas
+
+* 8 Mile
+* American Beauty
+* Cinderella Man
+* Joker
+* Lillehammer (show)
+* Locke
+* Moscow Does Not Believe in Tears (Москва слезам не верит)
+* Nine Days in One Year (Девять дней одного года)
+* Rocky
 * Spring on Zarechnaya Street (Весна на Заречной улице)
 * Subway (1985)
 * The Beaver
-* The Boondock Saints
-* The Eagle
 * The Guard
-* The Hard Way (1991)
-* The Town
 * The Tree of Life
-* Treasure Island (1990)
 * Warrior (2011)
-* Wheelman
-* Wind River
 
 # Animations and kid movies
 

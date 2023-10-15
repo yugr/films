@@ -37,6 +37,7 @@
 
 * 8 Mile
 * American Beauty
+* Barry Lyndon
 * Cinderella Man
 * Joker
 * Lillehammer (show)
@@ -55,7 +56,7 @@
 
 * A Christmas Carol (2009)
 * Akira
-* Avatar: The Last Airbender
+* Avatar: The Last Airbender (show)
 * Bridge to Terabithia
 * Enchanted
 * Inside Out
@@ -64,7 +65,7 @@
 * Metamorphosis (Метаморфоза, 1978)
 * Oz the Great and Powerful
 * Stardust
-* The Boondocks
+* The Boondocks (show)
 * The Lion King
 * The Mitten (Варежка, 1967)
 * The Secret of Kells

@@ -3,6 +3,7 @@
 * 3:10 to Yuma
 * Angel Heart
 * Appaloosa
+* Black 1847
 * Blade Runner
 * Deadwood (show, Russian translation by Serbin)
 * District 19

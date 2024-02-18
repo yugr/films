@@ -10,6 +10,7 @@
 * Dragged Across Concrete
 * Elysium
 * End of Watch
+* Freejack (1992)
 * Heat
 * Hell or High Water
 * Hornblower (show)
@@ -25,7 +26,7 @@
 * The Town
 * The Wire (show)
 * Treasure Island (1990)
-* True Detective (show)
+* True Detective (show, season 1)
 * Wheelman
 * Wind River
 
@@ -47,6 +48,7 @@
 * Locke
 * Moscow Does Not Believe in Tears (Москва слезам не верит)
 * Nine Days in One Year (Девять дней одного года)
+* North and South (show, 2004)
 * Rocky
 * Spring on Zarechnaya Street (Весна на Заречной улице)
 * Subway (1985)

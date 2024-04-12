@@ -28,6 +28,7 @@
 * Treasure Island (1990)
 * True Detective (show, season 1)
 * Wheelman
+* Warlock
 * Wind River
 
 # Comedies

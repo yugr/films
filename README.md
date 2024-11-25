@@ -10,6 +10,7 @@
 * Dragged Across Concrete
 * Elysium
 * End of Watch
+* Expanse (show)
 * Freejack (1992)
 * Heat
 * Hell or High Water
@@ -72,6 +73,8 @@
 * Kubo and the Two Strings
 * Metamorphosis (Метаморфоза, 1978)
 * Oz the Great and Powerful
+* Ronja Rövardotter (show, 2024)
+* Ronja, the Robber's Daughter (show, 2014)
 * Stardust
 * The Boondocks (show)
 * The Lion King

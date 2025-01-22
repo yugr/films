@@ -30,6 +30,7 @@
 * True Detective (show, season 1)
 * Wheelman
 * Warlock
+# Waterworld
 * Wind River
 
 # Comedies

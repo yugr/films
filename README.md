@@ -67,8 +67,10 @@
 
 * A Christmas Carol (2009)
 * Akira
+* Aunt Martha (Тётя Марта, show)
 * Avatar: The Last Airbender (show)
 * Bridge to Terabithia
+* Daddy's Daughters. New (Папины дочки. Новые, show, 2023)
 * Enchanted
 * Inside Out
 * Le Petit Prince

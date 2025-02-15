@@ -81,6 +81,7 @@
 * Ronja, the Robber's Daughter (show, 2014)
 * Stardust
 * The Boondocks (show)
+* The Enchanted Boy (Заколдованный мальчик, 1955)
 * The Lion King
 * The Mitten (Варежка, 1967)
 * The Secret of Kells

@@ -84,5 +84,6 @@
 * The Enchanted Boy (Заколдованный мальчик, 1955)
 * The Lion King
 * The Mitten (Варежка, 1967)
+* The Rocketeer
 * The Secret of Kells
 * Wreck-It Ralph

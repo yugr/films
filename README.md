@@ -36,6 +36,7 @@
 # Comedies
 
 * As Good as It Gets
+* Blast from the Past
 * Groundhog Day
 * The Hard Way (1991)
 * The Office (show, USA version)

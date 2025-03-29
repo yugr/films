@@ -87,4 +87,5 @@
 * The Mitten (Варежка, 1967)
 * The Rocketeer
 * The Secret of Kells
+* The Sixth Sense (12+)
 * Wreck-It Ralph

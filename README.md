@@ -80,6 +80,7 @@
 * Oz the Great and Powerful
 * Ronja Rövardotter (show, 2024)
 * Ronja, the Robber's Daughter (show, 2014)
+* Sing (2016)
 * Stardust
 * The Boondocks (show)
 * The Enchanted Boy (Заколдованный мальчик, 1955)

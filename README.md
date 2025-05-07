@@ -84,6 +84,7 @@
 * Stardust
 * The Boondocks (show)
 * The Enchanted Boy (Заколдованный мальчик, 1955)
+* The Forbidden Kingdom (2008)
 * The Lion King
 * The Mitten (Варежка, 1967)
 * The Rocketeer

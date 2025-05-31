@@ -67,8 +67,8 @@
 # Animations and kid movies
 
 * A Christmas Carol (2009)
-* Akira
-* Aunt Martha (Тётя Марта, show)
+* Akira (18+)
+* Aunt Martha (Тётя Марта, show, 18+)
 * Avatar: The Last Airbender (show)
 * Bridge to Terabithia
 * Daddy's Daughters. New (Папины дочки. Новые, show, 2023)
@@ -81,8 +81,8 @@
 * Ronja Rövardotter (show, 2024)
 * Ronja, the Robber's Daughter (show, 2014)
 * Sing (2016)
-* Stardust
-* The Boondocks (show)
+* Stardust (18+)
+* The Boondocks (show, 18+)
 * The Enchanted Boy (Заколдованный мальчик, 1955)
 * The Forbidden Kingdom (2008)
 * The Lion King

@@ -24,6 +24,7 @@
 * Sicario
 * The Boondock Saints
 * The Eagle (2011)
+* The Last Duel
 * The Town
 * The Wire (show)
 * Treasure Island (1990)

@@ -61,6 +61,7 @@
 * Spring on Zarechnaya Street (Весна на Заречной улице)
 * Subway (1985)
 * The Beaver
+* The Chairman (Председатель, 1964)
 * The Guard
 * The Tree of Life
 * Warrior (2011)

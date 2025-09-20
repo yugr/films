@@ -8,6 +8,7 @@
 * Deadwood (show, Russian translation by Serbin)
 * District 19
 * Dragged Across Concrete
+* Edge of Tomorrow
 * Elysium
 * End of Watch
 * Expanse (show)

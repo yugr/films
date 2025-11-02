@@ -50,11 +50,13 @@
 * American Beauty
 * Barry Lyndon
 * Cinderella Man
+* Hide Away (2011)
 * If Tomorrow Comes (mini-show, 1986)
 * It's a Wonderful Life
 * Joker
 * Lillehammer (show)
 * Locke
+* Message in a Bottle
 * Moscow Does Not Believe in Tears (Москва слезам не верит)
 * Nefarious
 * Nine Days in One Year (Девять дней одного года)

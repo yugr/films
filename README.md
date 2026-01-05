@@ -16,6 +16,7 @@
 * Heat
 * Hell or High Water
 * Hornblower (show)
+* House of David
 * Killer Joe
 * Killing Them Softly
 * Nuevo Orden

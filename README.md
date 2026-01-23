@@ -51,6 +51,7 @@
 * 8 Mile
 * American Beauty
 * Barry Lyndon
+* Cast Away
 * Cinderella Man
 * Hide Away (2011)
 * If Tomorrow Comes (mini-show, 1986)

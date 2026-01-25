@@ -57,6 +57,8 @@
 * If Tomorrow Comes (mini-show, 1986)
 * It's a Wonderful Life
 * Joker
+* La La Land
+  - be sure to reread "Phaedrus" before watching
 * Lillehammer (show)
 * Locke
 * Message in a Bottle

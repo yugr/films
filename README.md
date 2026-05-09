@@ -75,7 +75,7 @@
 * The Guard
 * The Tree of Life
 * Warrior (2011)
-* wild Mountain Thyme
+* Wild Mountain Thyme
 
 # Animations and kid movies
 
